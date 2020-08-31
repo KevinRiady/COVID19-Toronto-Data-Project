@@ -2,7 +2,7 @@
 
 ### Results:
 #### % Distribution of Age Groups Affected
-[](https://github.com/KevinRiady/COVID19-Toronto-Data-Project/blob/master/Results/%25_distribution_of_age_groups_affected.png)
+![](https://github.com/KevinRiady/COVID19-Toronto-Data-Project/blob/master/Results/%25_distribution_of_age_groups_affected.png)
 
 ### Dataset Description: 
 
