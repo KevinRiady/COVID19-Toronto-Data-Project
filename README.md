@@ -1,7 +1,7 @@
 ## Data Science Project: Analyzing COVID-19 Cases in Toronto
 
 ### Results:
-![% Distribution of Age Groups Affected](/Results/%_distribution_of_age_groups_affected)
+![% Distribution of Age Groups Affected](Results/%_distribution_of_age_groups_affected)
 
 ### Dataset Description: 
 
