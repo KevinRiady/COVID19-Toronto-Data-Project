@@ -2,7 +2,7 @@
 
 ### Results:
 #### % Distribution of Age Groups Affected
-![](Results/%_distribution_of_age_groups_affected.png)
+[](Results/%_distribution_of_age_groups_affected.png)
 
 ### Dataset Description: 
 
